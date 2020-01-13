@@ -17,6 +17,10 @@
 // image.src = logo
 // document.body.appendChild(image)
 
+console.log('HI!yeah!!')
+
+alert('Hi, source-map!')
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './style.css'
